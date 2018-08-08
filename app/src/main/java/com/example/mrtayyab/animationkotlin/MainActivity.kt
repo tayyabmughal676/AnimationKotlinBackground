@@ -6,10 +6,6 @@ import android.graphics.drawable.AnimationDrawable
 import android.support.constraint.ConstraintLayout
 
 
-
-
-
-
 class MainActivity : AppCompatActivity() {
 
 //    private AnimationDrawable animationDrawable;
@@ -41,6 +37,7 @@ lateinit var constraintLayout: ConstraintLayout
         }
 
     }
+
 
     override fun onPause() {
         super.onPause()

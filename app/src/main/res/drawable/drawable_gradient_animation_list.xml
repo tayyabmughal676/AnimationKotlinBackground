@@ -3,7 +3,7 @@
 
     <item
         android:drawable="@drawable/drawable_purple_gradient"
-        android:duration="6000" />
+        android:duration="6000" />   /// 6000 = 6 second
     <item
         android:drawable="@drawable/drawable_amber_gradient"
         android:duration="6000" />
